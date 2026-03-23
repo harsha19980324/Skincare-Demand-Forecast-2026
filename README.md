@@ -1,4 +1,8 @@
-# 📊 Skincare Demand Forecast 2026
+<p>
+  <h1 align="center" style="color: #0078D4; font-size: 42px; font-weight: 900; margin: 20px 0; text-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    Skincare Demand Forecast 2026
+  </h1>
+</p>
 
 ## 🚀 Overview
 
