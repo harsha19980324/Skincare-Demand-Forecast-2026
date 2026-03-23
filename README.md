@@ -28,7 +28,7 @@ The model uses **historical demand data** (2023–2025) to generate **monthly fo
 - Monthly breakdown (Jan–Dec 2026)
 
 <p align="center">
-  <img src="images/forecast_dashboard.png" alt="Forecast Dashboard" width="800" style="border:2px solid #0078D4; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.1);"/>
+  <img src="https://github.com/user-attachments/assets/c19793a3-4c87-4975-81ca-973878251d23" alt="Forecast Dashboard" width="800" style="border:2px solid #0078D4; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.1);"/>
   <br><em>Forecast Dashboard: Monthly forecasts, WMA growth, stockout % and safety stock</em>
 </p>
 
@@ -41,7 +41,7 @@ The model uses **historical demand data** (2023–2025) to generate **monthly fo
 - Based on **demand quantity**, not sales, to avoid stockout bias
 
 <p align="center">
-  <img src="images/seasonality_heatmap.png" alt="Seasonality Heatmap" width="800" style="border:2px solid #0078D4; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.1);"/>
+  <img src="https://github.com/user-attachments/assets/4d9ebcc7-5c93-43ad-a2c7-01b2c356c8ae" alt="Seasonality Heatmap" width="800" style="border:2px solid #0078D4; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.1);"/>
   <br><em>Seasonality Heatmap — highlights peak and low-demand months per SKU</em>
 </p>
 
