@@ -138,7 +138,13 @@ This model helps businesses:
 
 ---
 
-## 👨‍💻 Author
+## 📄 Project Summary
+
+<p align="center">
+  <a href="https://github.com/user-attachments/files/26182633/project_summary.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download-PDF%20Summary-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
 
 Harsha K.  
 
